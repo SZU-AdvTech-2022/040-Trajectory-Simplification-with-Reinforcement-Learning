@@ -1,0 +1,7 @@
+@inproceedings{REPO-040,
+    author = "Wang, Zheng and Long, Cheng and Cong, Gao",
+    booktitle = "2021 IEEE 37th International Conference on Data Engineering (ICDE)",
+    pages = "684--695",
+    title = "{Trajectory Simplification with Reinforcement Learning}",
+    year = "2021"
+}
